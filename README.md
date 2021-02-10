@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 -->
-<!--
+
 <a target="_blank" href="https://www.linkedin.com/in/ezzealmeida">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="santosezequiel205@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
--->
+
 
  Abaixo você poderá conferir meu status no GitHub :chart_with_upwards_trend:
  <br><center>
