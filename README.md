@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a></br>
 
-
+<a></a>
 
  Abaixo você poderá conferir meu status no GitHub :chart_with_upwards_trend:
  <br><center>
