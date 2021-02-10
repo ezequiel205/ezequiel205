@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá desenvolvedores 👨‍💻 Sejam bem vindos ao meu perfil! :sparkles:
 
 <!--
 **ezequiel205/ezequiel205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... 
 -->
+
+ Abaixo você poderá conferir meu status no GitHub :chart_with_upwards_trend:
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
 
