@@ -31,5 +31,5 @@ Here are some ideas to get you started:
  Abaixo você poderá conferir meu status no GitHub :chart_with_upwards_trend:
  <br><center>
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
- </br></center>
+ </center></br>
 
