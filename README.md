@@ -26,6 +26,8 @@ Here are some ideas to get you started:
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a></br>
 
+<br></br>
+
  Abaixo você poderá conferir meu status no GitHub :chart_with_upwards_trend:
  <br><center>
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
