@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 <br>
-<a target="_blank" href="https://www.linkedin.com/in/ezzealmeida">
+<a target="_blank" href="https://www.linkedin.com/in/ezequielalmeida">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a target="_blank" href="https://api.whatsapp.com/send?phone=5519987307673">
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" mailto:santosezequiel205@gmail.com?subject="Hello"/>
 </a></br>
 -->
-<a></a>
+<a></a><br></br>
 
  Abaixo você poderá conferir meu status no GitHub :chart_with_upwards_trend:
  <br><center>
