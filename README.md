@@ -22,11 +22,9 @@ Here are some ideas to get you started:
 <a target="_blank" href="https://www.instagram.com/ezzealmeida">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<!--
-<a target="_blank" href="santosezequiel205@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" mailto:santosezequiel205@gmail.com?subject="Hello"/>
+<a target="_blank" href="mailto:santosezequiel205@gmail.com?subject="Hello">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a></br>
--->
 <a></a><br></br>
 
  Abaixo você poderá conferir meu status no GitHub :chart_with_upwards_trend:
