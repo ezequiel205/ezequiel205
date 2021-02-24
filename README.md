@@ -17,16 +17,16 @@ Here are some ideas to get you started:
 <a  href="https://www.linkedin.com/in/ezequielalmeida" target="_blank">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a rel=opener href="https://api.whatsapp.com/send?phone=5519987307673">
+<a rel="opener noreferrer" href="https://api.whatsapp.com/send?phone=5519987307673">
   <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
-<a target="_blank" href="https://www.instagram.com/ezzealmeida">
+<a rel=”noopener noreferrer” href="https://www.instagram.com/ezzealmeida">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a rel=noopener href="mailto:santosezequiel205@gmail.com?subject="Hello">
+<a rel=”noopener noreferrer” href="mailto:santosezequiel205@gmail.com?subject="Hello">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
-<a rel=opener href="https://app.rocketseat.com.br/me/ezzealmeida" />
+<a rel="noopener noreferrer" href="https://app.rocketseat.com.br/me/ezzealmeida" />
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />
 </a>
 
