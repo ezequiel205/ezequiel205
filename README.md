@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
 <a rel="noopener noreferrer" href="https://app.rocketseat.com.br/me/ezzealmeida" />
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" target="_blank"/>
 </a>
 
 </br>
