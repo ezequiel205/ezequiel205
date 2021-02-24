@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a target="_blank" href="mailto:santosezequiel205@gmail.com?subject="Hello">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
-<a href="https://app.rocketseat.com.br/me/ezzealmeida" rel=noopener />
+<a href="https://app.rocketseat.com.br/me/ezzealmeida" rel="opener />
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hashnode.svg" />
 </a>
 
