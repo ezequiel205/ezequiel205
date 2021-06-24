@@ -9,7 +9,7 @@
 </br><p></p>
 
 <a target="_blank" href="https://www.linkedin.com/in/ezequielalmeida">
-  <img align="center" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><p></p>
+  <img align="center" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a></a><p></p>
 
  Meu status no GitHub :chart_with_upwards_trend:
  <br><center>
