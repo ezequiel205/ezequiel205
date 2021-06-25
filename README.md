@@ -14,4 +14,4 @@
  Meu status no GitHub :chart_with_upwards_trend:
  <br><center>
 ![Ezequiel Almeida GitHub Stats](https://github-readme-stats.vercel.app/api?username=ezequiel205&show_icons=true)
- </center></br>
+ </center></br> 
