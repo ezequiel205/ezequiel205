@@ -5,7 +5,7 @@
 
 <br>
 <!-- Descrição do Projeto -->
-<a> Aqui compartilho um pouco do meu aprendizado como desenvolvedor, então você encontrará projetos que realizei em diferentes momentos dessa jornada. Sinta-se a vontade para explorar os repositórios e caso queira saber um pouco mais sobre mim logo abaixo está disponível. </a>
+<a> Aqui compartilho um pouco do meu aprendizado, então você encontrará projetos que realizei em diferentes momentos dessa jornada. Sinta-se a vontade para explorar os repositórios e caso queira saber um pouco mais sobre mim logo abaixo está disponível. </a>
 </br><p></p>
 
 <a target="_blank" href="https://www.linkedin.com/in/ezequielalmeida">
