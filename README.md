@@ -1,6 +1,6 @@
 <h1 align="center"> Olá! Seja bem vindo!  👨‍💻 </h1>
 <h4 align="center"> 
-	🚧 Desenvolvedor em construção...🚧
+	🚧 Em construção...🚧
 </h4>
 
 <br>
